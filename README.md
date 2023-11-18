@@ -68,3 +68,18 @@ Creates a WeightedQuickUnionPathCompression object with the specified number of 
 
 You can use these classes to efficiently determine connectivity and perform union operations on sets of objects. Feel free to explore the provided methods and integrate them into your applications as needed.
 
+## Getting Started
+
+To use this implementation in your C# project, simply clone the repository and incorporate the `QuickFind.cs` file into your project.
+
+```bash
+git clone https://github.com/Musab-Dev/quick-find-algorithm.git
+```
+
+## Contributing
+
+If you find any issues, have improvements, or want to contribute to this project, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
