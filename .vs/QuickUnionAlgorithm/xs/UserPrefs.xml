@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E850FB72-9FA4-4DE7-8ED3-CBB5E1E2A5A7}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.QuickUnionAlgorithm PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="QuickUnionAlgorithm/Program.cs">
+    <Files>
+      <File FileName="QuickUnionAlgorithm/Program.cs" Line="40" Column="27" />
+      <File FileName="QuickUnionAlgorithm/QuickUnion.cs" Line="27" Column="4" />
+      <File FileName="QuickUnionAlgorithm/WeightedQuickUnion.cs" Line="29" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="QuickUnionAlgorithm" expanded="True">
+            <Node name="QuickUnionAlgorithm" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/musabmosameh/Development/ASP.NETProjects/QuickUnionAlgorithm/QuickUnionAlgorithm/bin/Debug/net7.0/QuickUnionAlgorithm
+/Users/musabmosameh/Development/ASP.NETProjects/QuickUnionAlgorithm/QuickUnionAlgorithm/bin/Debug/net7.0/QuickUnionAlgorithm.deps.json
+/Users/musabmosameh/Development/ASP.NETProjects/QuickUnionAlgorithm/QuickUnionAlgorithm/bin/Debug/net7.0/QuickUnionAlgorithm.runtimeconfig.json
+/Users/musabmosameh/Development/ASP.NETProjects/QuickUnionAlgorithm/QuickUnionAlgorithm/bin/Debug/net7.0/QuickUnionAlgorithm.dll
+/Users/musabmosameh/Development/ASP.NETProjects/QuickUnionAlgorithm/QuickUnionAlgorithm/bin/Debug/net7.0/QuickUnionAlgorithm.pdb
+/Users/musabmosameh/Development/ASP.NETProjects/QuickUnionAlgorithm/QuickUnionAlgorithm/obj/Debug/net7.0/QuickUnionAlgorithm.csproj.AssemblyReference.cache
+/Users/musabmosameh/Development/ASP.NETProjects/QuickUnionAlgorithm/QuickUnionAlgorithm/obj/Debug/net7.0/QuickUnionAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/musabmosameh/Development/ASP.NETProjects/QuickUnionAlgorithm/QuickUnionAlgorithm/obj/Debug/net7.0/QuickUnionAlgorithm.AssemblyInfoInputs.cache
+/Users/musabmosameh/Development/ASP.NETProjects/QuickUnionAlgorithm/QuickUnionAlgorithm/obj/Debug/net7.0/QuickUnionAlgorithm.AssemblyInfo.cs
+/Users/musabmosameh/Development/ASP.NETProjects/QuickUnionAlgorithm/QuickUnionAlgorithm/obj/Debug/net7.0/QuickUnionAlgorithm.csproj.CoreCompileInputs.cache
+/Users/musabmosameh/Development/ASP.NETProjects/QuickUnionAlgorithm/QuickUnionAlgorithm/obj/Debug/net7.0/QuickUnionAlgorithm.dll
+/Users/musabmosameh/Development/ASP.NETProjects/QuickUnionAlgorithm/QuickUnionAlgorithm/obj/Debug/net7.0/refint/QuickUnionAlgorithm.dll
+/Users/musabmosameh/Development/ASP.NETProjects/QuickUnionAlgorithm/QuickUnionAlgorithm/obj/Debug/net7.0/QuickUnionAlgorithm.pdb
+/Users/musabmosameh/Development/ASP.NETProjects/QuickUnionAlgorithm/QuickUnionAlgorithm/obj/Debug/net7.0/QuickUnionAlgorithm.genruntimeconfig.cache
+/Users/musabmosameh/Development/ASP.NETProjects/QuickUnionAlgorithm/QuickUnionAlgorithm/obj/Debug/net7.0/ref/QuickUnionAlgorithm.dll
