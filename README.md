@@ -70,7 +70,7 @@ You can use these classes to efficiently determine connectivity and perform unio
 
 ## Getting Started
 
-To use this implementation in your C# project, simply clone the repository and incorporate the `QuickFind.cs` file into your project.
+To use this implementation in your C# project, simply clone the repository and incorporate the `QuickUnion.cs`, `WeightedQuickUnion.cs`, and `WeightedQuickUnionPathCompression.cs` file into your project.
 
 ```bash
 git clone https://github.com/Musab-Dev/quick-union-algorithm.git
